@@ -1,0 +1,4 @@
+# Project exclude paths
+/custom-example-autoconfiguration/target/
+/custom-example-stater/target/
+/target/
